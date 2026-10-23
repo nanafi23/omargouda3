@@ -9,3 +9,7 @@ Please use the maintenance repository for the project overview, setup instructio
 ## Original implementation
 
 A frontend coursework website using HTML, CSS, JavaScript and Bootstrap-based styling. It introduces web development topics and provides learning-resource links. Static forms do not provide secure server-side authentication or message delivery.
+
+## Maintenance repair
+
+The missing stylesheet was restored from the related historical `omar_gouda` layout. Local image and favicon references now match the files included here.
